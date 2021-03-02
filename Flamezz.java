@@ -37,7 +37,7 @@ break;
 
 //System.out.println(" AFTER CANCELLING ,WE HAVE "+(a+b)+" CHARACTERS ");
 i=(a+b);
-System.out.println("\n\n TRYING TO MAKE FLAMES : Loading... \n Processing completed successfully... \n \n");
+System.out.println("\n\n success... \n \n");
 if(i==0)
 System.out.println(" IT'S NOT POSSIBLE TO DO FLAMES ON THESE NAMES. ");
 else if(i==1 || i==16)
