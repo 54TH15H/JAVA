@@ -1,7 +1,8 @@
+/** FLAMES CALCULATION */
+
 import java.util.Scanner;
 public class Flamezz
 {
-/** FLAMES CALCULATION */
 public static void main(String args[])
 {
 Scanner in=new Scanner(System.in);
